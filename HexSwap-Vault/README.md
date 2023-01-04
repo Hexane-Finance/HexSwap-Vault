@@ -1,4 +1,4 @@
-# HexSwap Cake Vault
+# HexSwap $HEXANEVault
 
 ## Description
 
